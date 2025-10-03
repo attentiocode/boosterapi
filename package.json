@@ -1,0 +1,18 @@
+{
+    "name": "boosterapi",
+    "version": "0.1.0",
+    "private": true,
+    "type": "module",
+    "dependencies": {
+      "@vercel/node": "^3.0.0",
+      "zod": "^3.23.8"
+    },
+    "devDependencies": {
+      "typescript": "^5.4.5"
+    },
+    "scripts": {
+      "dev": "vercel dev",
+      "start": "vercel dev"
+    }
+  }
+  
